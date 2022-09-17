@@ -26,4 +26,24 @@ public class TechNumber {
 		}
 
 	}
+	
+	public void techNumberSolutionTwo() {
+		int num  = 2025;
+		String numString = num + "";
+		if(numString.length() > 0 && numString.length() %2 == 0) {
+			int mid = numString.length() / 2;
+			int firstHalf = Integer.parseInt(numString.subSequence(0, mid).toString());
+			int secondHalf = Integer.parseInt(numString.subSequence( mid, numString.length()).toString());
+			
+			if(((firstHalf+secondHalf)*(firstHalf+secondHalf)) == num) {
+				System.out.println(num + " is a techNumber ");
+			} else {
+				System.out.println(num + " is not a techNumber ");
+			}
+			
+		}else {
+			System.out.println(num + " is not even digit number ");
+		}
+		
+	}
 }
