@@ -1,15 +1,12 @@
 package com.ashiq;
 
-import maths.FactorialNumber;
-import maths.PrimeNumber;
-import misc.MapIteration;
+
+import misc.ObjectCloningOne;
 
 public class MainClass {
 
-	public static void main(String[] args) {
-		// 
-		System.out.println("ok");
-		new FactorialNumber().factorialNumber();
+	public static void main(String[] args) throws CloneNotSupportedException  {
+		new ObjectCloningOne().cloningOfAClassObject();;		
 	}
 
 }
