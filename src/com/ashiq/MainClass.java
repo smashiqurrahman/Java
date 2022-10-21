@@ -1,12 +1,12 @@
 package com.ashiq;
 
-
-import misc.ObjectCloningOne;
+import streamPractice.StreamPractice;
 
 public class MainClass {
 
-	public static void main(String[] args) throws CloneNotSupportedException  {
-		new ObjectCloningOne().cloningOfAClassObject();;		
+	public static void main(String[] args) {
+		StreamPractice sp = new StreamPractice();
+		sp.streamMethodToRun();
 	}
 
 }
