@@ -1,12 +1,12 @@
 package com.ashiq;
 
-import streamPractice.StreamPractice;
+import misc.ReverseString;
 
 public class MainClass {
 
 	public static void main(String[] args) {
-		StreamPractice sp = new StreamPractice();
-		sp.streamMethodToRun();
+		ReverseString rs = new ReverseString();
+		rs.makeTheStringReverse("Apple");
 	}
 
 }
