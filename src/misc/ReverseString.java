@@ -9,6 +9,7 @@ public class ReverseString {
 			theRev += c[i];
 		}
 		
+		System.out.println(theString);
 		System.out.println(theRev); 
 		
 	}
