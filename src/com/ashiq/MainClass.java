@@ -12,7 +12,7 @@ public class MainClass {
 		SortAnArray_912 anArray_912 = new SortAnArray_912();
 		int[] nums = anArray_912.sortArray(theArray, 0, theArray.length-1);
 		
-		
+		 
 		for(int item : nums) {
 			System.out.println(item);
 		}
