@@ -1,4 +1,4 @@
-package maths;
+package com.ashiq.maths;
 
 public class FactorialNumber {
 	public void factorialNumber() {

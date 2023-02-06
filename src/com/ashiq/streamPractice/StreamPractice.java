@@ -1,4 +1,4 @@
-package streamPractice;
+package com.ashiq.streamPractice;
 
 
 import java.util.Comparator;

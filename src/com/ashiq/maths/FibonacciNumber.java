@@ -1,4 +1,4 @@
-package maths;
+package com.ashiq.maths;
 public class FibonacciNumber {
     public void fibonacciNumber() {
         int element, i, a, b, c;

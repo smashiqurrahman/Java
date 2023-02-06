@@ -1,4 +1,4 @@
-package streamPractice;
+package com.ashiq.streamPractice;
 
 public class Person {
 	private String name;

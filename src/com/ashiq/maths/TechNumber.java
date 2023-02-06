@@ -1,4 +1,4 @@
-package maths;
+package com.ashiq.maths;
 
 public class TechNumber {
 	public void techNumber() {

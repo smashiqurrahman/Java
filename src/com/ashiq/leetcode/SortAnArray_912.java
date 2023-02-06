@@ -1,4 +1,4 @@
-package leetCode;
+package com.ashiq.leetcode;
 
 public class SortAnArray_912 {
 	public int[] sortArray(int[] nums, int lowIndex, int highIndex) {

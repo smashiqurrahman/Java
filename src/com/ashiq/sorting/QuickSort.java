@@ -1,4 +1,4 @@
-package sorting;
+package com.ashiq.sorting;
 
 public class QuickSort {
 	public int[] quickSort(int[] theArray, int lowIndex, int highIndex) {

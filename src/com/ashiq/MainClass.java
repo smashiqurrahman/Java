@@ -1,20 +1,19 @@
 package com.ashiq;
 
-
-import leetCode.SortAnArray_912;
-import sorting.QuickSort;
+import com.ashiq.leetcode.ShuffletheArray_1470;
 
 public class MainClass {
 
 	public static void main(String[] args) {
 		
-		int[] theArray = {6,1,9,6,5,7,3};
-		SortAnArray_912 anArray_912 = new SortAnArray_912();
-		int[] nums = anArray_912.sortArray(theArray, 0, theArray.length-1);
+		int[] nums = {2,5,1,3,4,7};
+		int n = 3;
 		
-		 
-		for(int item : nums) {
-			System.out.println(item);
+		ShuffletheArray_1470 array_1470 = new ShuffletheArray_1470();
+		int[] returnArray = array_1470.shuffle(nums, n);
+		
+		for(int i : returnArray) {
+			System.out.print(i + " ");		
 		}
 	}
 

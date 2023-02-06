@@ -1,4 +1,4 @@
-package leetCode;
+package com.ashiq.leetcode;
 
 public class SecondHighesSalary_176 {
 	/* Database Problem - MySql */

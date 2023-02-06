@@ -1,4 +1,4 @@
-package misc;
+package com.ashiq.misc;
 
 
 public class ObjectCloningOne {

@@ -1,4 +1,4 @@
-package misc;
+package com.ashiq.misc;
 
 import java.util.HashMap;
 import java.util.Iterator;
