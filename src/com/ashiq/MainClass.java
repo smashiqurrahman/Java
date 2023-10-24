@@ -6,15 +6,10 @@ import com.ashiq.leetcode.*;
 public class MainClass {
 
 	public static void main(String[] args) {
+		
+		int[] nums = {2,5,1,3,4,7};
+		int n = 3;
 
-		 String strs0[] = {"abc", "a", "ad"};
-		 String strs1[] = {"c", "acc", "ccc"};
-		 String strs2[] = {"parrot", "pivot", "parent"};		
-		 String strs3[] = {"flower", "flow", "flight"};
-		
-		CommonPrefix_14 cp = new CommonPrefix_14();
-		System.out.println(cp.longestCommonPrefix(strs0));
-		
 	}
 
 }
