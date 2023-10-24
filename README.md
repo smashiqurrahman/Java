@@ -1,2 +1,2 @@
 # Java
-Java programming problem-solving Leetcode. Math, String, Pattern, Data structure, Algorithm
+Java problem-solving Leetcode. Math, String, Pattern, Data structure, Algorithm
