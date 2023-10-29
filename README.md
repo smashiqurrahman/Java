@@ -35,7 +35,7 @@ Java problem-solving Leetcode. Math, String, Pattern, Data structure, Algorithm
 		<li><a href="https://github.com/smashiqurrahman/Java/blob/main/src/com/ashiq/misc/ReverseString.java">Reverse A String</a></li>
 	</ul>
 	
-<h3>Math</h3>
+<h3>Sorting</h3>
 	<ul>
 		<li><a href="https://github.com/smashiqurrahman/Java/blob/main/src/com/ashiq/sorting/QuickSort.java">Quick Sort</a></li>
 	</ul>
